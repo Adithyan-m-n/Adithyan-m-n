@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adithyan M Nair</h1>
-<h3 align="center">I am an ML and AI enthusiast. My work includes building robust AI models, developing web applications, and exploring innovative AI applications in real-world scenarios.</h3>
+<h3>I am an ML and AI enthusiast. My work includes building robust AI models, developing web applications, and exploring innovative AI applications in real-world scenarios.</h3>
 
 - 🎓 Education: **Bachelor of Technology in Artificial Intelligence (Amrita Vishwa Vidyapeetham)**
 
