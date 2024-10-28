@@ -5,7 +5,7 @@
   - 💡 Key Skills: <strong>AI, Machine Learning, Data Analysis, Prompt Engineering, Deep Learning</strong><br>
   - 🌐 Interest Areas: <strong>Generative AI, Trading Strategies, Federated Learning, Machine Unlearning, Human-AI Interaction</strong><br>
   - 📫 How to reach me: <strong>adithyan146@gmail.com</strong><br>
-  - 📄 Know about my experiences <a href="https://drive.google.com/file/d/130NX8WPMKvihkTTBIk0xnARbAojnjc8W/view?usp=sharing">Resume</a>
+  - 📄 Know about my experiences: <a href="https://drive.google.com/file/d/130NX8WPMKvihkTTBIk0xnARbAojnjc8W/view?usp=sharing">Resume</a>
 </p>
 
 <h3 align="center">Connect with me:</h3>
@@ -58,11 +58,10 @@
 </p>
 
 
-[![An image of @adithyan146's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adithyan146)](https://holopin.io/@adithyan146)
-
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=adithyan-m-n&show_icons=true&locale=en&layout=compact" alt="adithyan-m-n" /></p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=adithyan-m-n&show_icons=true&locale=en" alt="adithyan-m-n" /></p>
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=adithyan-m-n&" alt="adithyan-m-n" /></p>
 
+[![An image of @adithyan146's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adithyan146)](https://holopin.io/@adithyan146)
