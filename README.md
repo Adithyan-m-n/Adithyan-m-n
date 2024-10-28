@@ -77,15 +77,15 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adithyan-m-n&show_icons=true&theme=dracula&locale=en&layout=compact" alt="adithyan-m-n" />
-</div>
+</div><br />
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=adithyan-m-n&show_icons=true&theme=dracula&locale=en" alt="adithyan-m-n" />
-</div>
+</div><br />
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adithyan-m-n&theme=dark" alt="adithyan-m-n" />
-</div>
+</div><br />
 
 
 [![An image of @adithyan146's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adithyan146)](https://holopin.io/@adithyan146)
