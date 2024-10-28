@@ -1,14 +1,13 @@
 <h1 align="center">Hi 👋, I'm Adithyan M Nair</h1>
 <h3 align="center">AI/ML enthusiast</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adithyan-m-n" alt="adithyan-m-n" /></a> </p>
-
 - 📫 How to reach me **adithyan146@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/adithyan-m-nair" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adithyan-m-nair" height="30" width="40" /></a>
 <a href="https://instagram.com/h.a.rlem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="h.a.rlem" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/u4aie20105_dsa2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/u4aie20105_dsa2" height="30" width="40" /></a>
 <a href="https://discord.gg/Adithyan#2181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Adithyan#2181" height="30" width="40" /></a>
 </p>
 
@@ -20,5 +19,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adithyan-m-n&show_icons=true&locale=en" alt="adithyan-m-n" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adithyan-m-n&" alt="adithyan-m-n" /></p>
-
-[![An image of @adithyan146's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adithyan146)](https://holopin.io/@adithyan146)
