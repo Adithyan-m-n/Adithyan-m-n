@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adithyan M Nair</h1>
-<h3>I am an ML and AI enthusiast. My work includes building robust AI models, developing web applications, and exploring innovative AI applications in real-world scenarios.</h3>
+<h4 align="center">I am an ML and AI enthusiast. My work includes building robust AI models, developing web applications, and exploring innovative AI applications in real-world scenarios.</h4>
 
 - 🎓 Education: **Bachelor of Technology in Artificial Intelligence (Amrita Vishwa Vidyapeetham)**
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me: **adithyan146@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/130NX8WPMKvihkTTBIk0xnARbAojnjc8W/view?usp=sharing](https://drive.google.com/file/d/130NX8WPMKvihkTTBIk0xnARbAojnjc8W/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/130NX8WPMKvihkTTBIk0xnARbAojnjc8W/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
