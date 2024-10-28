@@ -21,3 +21,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adithyan-m-n&" alt="adithyan-m-n" /></p>
 
+[![An image of @adithyan146's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adithyan146)](https://holopin.io/@adithyan146)
