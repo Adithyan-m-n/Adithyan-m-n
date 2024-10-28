@@ -57,7 +57,7 @@
       </p><br />
     </td>
   </tr>
-  <tr align="center" valign="top">
+  <tr>
       <h3>Platforms and Software:</h3>
       <p>
         <a href="https://www.kaggle.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="kaggle" width="40" height="40"/> </a>
