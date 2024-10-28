@@ -75,10 +75,10 @@
 
 
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=adithyan-m-n&show_icons=true&locale=en&layout=compact" alt="adithyan-m-n" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adithyan-m-n&show_icons=true&theme=cobalt&locale=en&layout=compact" alt="adithyan-m-n" /></p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=adithyan-m-n&show_icons=true&locale=en" alt="adithyan-m-n" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adithyan-m-n&show_icons=true&theme=cobalt&locale=en" alt="adithyan-m-n" /></p>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=adithyan-m-n&" alt="adithyan-m-n" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adithyan-m-n&theme=dark" alt="adithyan-m-n" /></p>
 
 [![An image of @adithyan146's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adithyan146)](https://holopin.io/@adithyan146)
