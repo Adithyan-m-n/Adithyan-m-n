@@ -75,9 +75,9 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adithyan-m-n&show_icons=true&theme=cobalt&locale=en&layout=compact" alt="adithyan-m-n" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adithyan-m-n&show_icons=true&theme=dracula&locale=en&layout=compact" alt="adithyan-m-n" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adithyan-m-n&show_icons=true&theme=cobalt&locale=en" alt="adithyan-m-n" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adithyan-m-n&show_icons=true&theme=tokyonight&locale=en" alt="adithyan-m-n" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adithyan-m-n&theme=dark" alt="adithyan-m-n" /></p>
 
