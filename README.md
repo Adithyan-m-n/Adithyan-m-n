@@ -12,7 +12,6 @@
 <p align="center">
   <a href="https://linkedin.com/in/adithyan-m-nair" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adithyan-m-nair" height="30" width="40" /></a>
   <a href="https://instagram.com/h.a.rlem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="h.a.rlem" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/u4aie20105_dsa2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/u4aie20105_dsa2" height="30" width="40" /></a>
   <a href="https://discord.gg/Adithyan#2181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Adithyan#2181" height="30" width="40" /></a>
 </p><br />
 
