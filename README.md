@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adithyan M Nair</h1>
 <h4 align="center">I am an ML and AI enthusiast. My work includes building robust AI models, developing web applications, and exploring innovative AI applications in real-world scenarios.</h4>
 
-<p align="center">
+<p align="left">
   - 🎓 Education: <strong>Bachelor of Technology in Artificial Intelligence (Amrita Vishwa Vidyapeetham)</strong><br>
   - 💡 Key Skills: <strong>AI, Machine Learning, Data Analysis, Prompt Engineering, Deep Learning</strong><br>
   - 🌐 Interest Areas: <strong>Generative AI, Trading Strategies, Federated AI, Human-AI Interaction</strong><br>
@@ -62,5 +62,4 @@
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=adithyan-m-n&" alt="adithyan-m-n" /></p>
 
-<p align="center">
-  <a href="https://holopin.io/@adithyan146"><img src="https://holopin.me/adithyan146" alt="An image of @adithyan146's Holopin badges, which is a link to view their full Holopin profile"
+[![An image of @adithyan146's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adithyan146)](https://holopin.io/@adithyan146)
