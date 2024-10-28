@@ -4,7 +4,7 @@
 <p align="left">
   - 🎓 Education: <strong>Bachelor of Technology in Artificial Intelligence (Amrita Vishwa Vidyapeetham)</strong><br>
   - 💡 Key Skills: <strong>AI, Machine Learning, Data Analysis, Prompt Engineering, Deep Learning</strong><br>
-  - 🌐 Interest Areas: <strong>Generative AI, Trading Strategies, Federated AI, Human-AI Interaction</strong><br>
+  - 🌐 Interest Areas: <strong>Generative AI, Trading Strategies, Federated Learning, Machine Unlearning, Human-AI Interaction</strong><br>
   - 📫 How to reach me: <strong>adithyan146@gmail.com</strong><br>
   - 📄 Know about my experiences <a href="https://drive.google.com/file/d/130NX8WPMKvihkTTBIk0xnARbAojnjc8W/view?usp=sharing">Resume</a>
 </p>
@@ -49,12 +49,17 @@
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
 </p>
 
-<h3 align="center">Other Tools:</h3>
-<p align="center"> 
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>
+<h3 align="center">Platforms and Software:</h3>
+<p align="center">
+<a href="https://www.kaggle.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="kaggle" width="40" height="40"/> </a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vs-code" width="40" height="40"/> </a>
+<a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>
+<a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="jupyter" width="40" height="40"/> </a>
+<a href="https://www.anaconda.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/anaconda/anaconda-icon.svg" alt="anaconda" width="40" height="40"/> </a>
 </p>
+
+
+
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=adithyan-m-n&show_icons=true&locale=en&layout=compact" alt="adithyan-m-n" /></p>
 
