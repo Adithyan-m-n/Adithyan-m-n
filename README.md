@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adithyan M Nair</h1>
-<h4 align="center">I am an ML and AI enthusiast. My work includes building robust AI models, developing web applications, and exploring innovative AI applications in real-world scenarios.</h4>
+<h4 align="center">AI / ML Enthusiast || Ex Mentor- ACM Amritapuri || Ex Member- Media.Amritapuri || B.Tech A.I. Graduate from Amrita Vishwa Vidyapeetham, Amritapuri </h4>
 
 <p align="left">
-  - 🎓 Education: <strong>Bachelor of Technology in Artificial Intelligence (Amrita Vishwa Vidyapeetham)</strong><br>
   - 💡 Key Skills: <strong>AI, Machine Learning, Data Analysis, Prompt Engineering, Deep Learning</strong><br>
   - 🌐 Interest Areas: <strong>Generative AI, Trading Strategies, Federated Learning, Machine Unlearning, Human-AI Interaction</strong><br>
   - 📫 How to reach me: <strong>adithyan146@gmail.com</strong><br>
